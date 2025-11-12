@@ -149,7 +149,7 @@ MIT License — Usa libremente, pero respeta la ética en el uso de datos. / MIT
 
 ## Autor / Author
 
-Creado por Francisco Hernández Santos | LinkedIn
+Creado por [Francisco Hernández Santos](https://github.com/pacoDevelop) | [LinkedIn](https://www.linkedin.com/in/francisco-hernandez-santos/)
 
 ---
 
@@ -159,4 +159,3 @@ Este proyecto puede ser sensible: usar técnicas de watermarking, canary tokens 
 **Contacto para pruebas (ejemplo)**
 `franciscohernandezsantos3@gmail.com` — Token de ejemplo: `AI-DETECTOR-2025`.
 
-*Archivo generado automáticamente: README_multilingual.md*
