@@ -15,7 +15,7 @@
 ## Demo Interactiva
 
 Hay una app web (Streamlit) para probar el generador. Ingresa tu email y repo, y el generador crea los archivos listos para subir a GitHub.
-<a href="https://43ce2747-e4bb-4c00-862f-53966bb6f3f1-00-3s3wtzqglgk51.spock.replit.dev/" rel="noreferrer"><img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/19e3837a-0583-4efc-b5a8-c16085e5fda7" /></a>
+<a href="https://ai-detector-pacodevelop.streamlit.app/" rel="noreferrer"><img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/19e3837a-0583-4efc-b5a8-c16085e5fda7" /></a>
 > Nota: La app requiere JavaScript habilitado. Si no carga, puedes acceder directamente ([https://43ce2747-e4bb-4c00-862f-53966bb6f3f1-00-3s3wtzqglgk51.spock.replit.dev/](https://43ce2747-e4bb-4c00-862f-53966bb6f3f1-00-3s3wtzqglgk51.spock.replit.dev/)).
 
 ## Instalación y Uso / Installation and Usage
@@ -74,7 +74,7 @@ Welcome to the **AI Detector** repository! This project is designed to generate 
 ## Interactive Demo
 
 A Streamlit web app demonstrates the generator. Enter your email and repo, and generate files ready to push to GitHub.
-<a href="https://43ce2747-e4bb-4c00-862f-53966bb6f3f1-00-3s3wtzqglgk51.spock.replit.dev/" rel="noreferrer"><img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/19e3837a-0583-4efc-b5a8-c16085e5fda7" /></a>
+<a href="https://ai-detector-pacodevelop.streamlit.app" rel="noreferrer"><img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/19e3837a-0583-4efc-b5a8-c16085e5fda7" /></a>
 > Note: The demo requires JavaScript. If it does not load, access the fallback demo URL provided in the repository. [https://43ce2747-e4bb-4c00-862f-53966bb6f3f1-00-3s3wtzqglgk51.spock.replit.dev/](https://43ce2747-e4bb-4c00-862f-53966bb6f3f1-00-3s3wtzqglgk51.spock.replit.dev/)
 
 ## Installation and Usage
